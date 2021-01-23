@@ -1,3 +1,13 @@
+---
+permalink: /
+title: #"Welcome to Xinyue Shen's homepage!"
+excerpt: "About me"
+author_profile: true
+#redirect_from: 
+#  - /about/
+#  - /about.html
+---
+
 I am a post-doc at Stanford University and the Chinese University of Hong Kong (Shenzhen), 
 and I am advised by [Professor Stephen Boyd](https://web.stanford.edu/~boyd/) and [Professor Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en). 
 I received Ph.D. degree and B.E. degree in Electronic Engineering from Tsinghua University in 2018 and 2013, respectively, 

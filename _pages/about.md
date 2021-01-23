@@ -1,13 +1,3 @@
----
-permalink: /
-title: #"Welcome to Xinyue Shen's homepage!"
-excerpt: "About me"
-author_profile: true
-#redirect_from: 
-#  - /about/
-#  - /about.html
----
-
 I am a post-doc at Stanford University and the Chinese University of Hong Kong (Shenzhen), 
 and I am advised by [Professor Stephen Boyd](https://web.stanford.edu/~boyd/) and [Professor Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en). 
 I received Ph.D. degree and B.E. degree in Electronic Engineering from Tsinghua University in 2018 and 2013, respectively, 
@@ -23,23 +13,46 @@ Office: Packard 278, 350 Serra Mall, Stanford, CA 94305
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Statistics
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- G. Walther, A. Alnur, X. Shen, S. Boyd. Confidence Bands for a Log-concave Density. arXiv Preprint, 2020.
 
+Nonconvex optimization algorithms
+------
+- Q. Liu, X. Shen, Y. Gu. Linearized ADMM for Nonconvex Nonsmooth Optimization with Convergence Analysis. IEEE Access, 2019.
+- X. Shen, S. Diamond, M. Udell, Y. Gu, S. Boyd. Disciplined Multi-Convex Programming. IEEE Chinese Control and Decision Conference, Outstanding Youth Paper Award, 2017.
+- X. Shen, S. Diamond, Y. Gu, S, Boyd. Disciplined Convex-Concave Programming. IEEE Conference on Decision and Control, 2016.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Nonconvex sparse regression and compressed sensing
+------
+- C. Yang, X. Shen, H. Ma, B. Chen, H.C. So. Weakly Convex Regularized Robust Sparse Recovery Methods with Theoretical Guarantees. IEEE Transactions on Signal Processing, 2019.
+- X. Shen, Y. Gu. Nonconvex Sparse Logistic Regression with Weakly Convex Regularization, IEEE Transactions on Signal Processing, 2018.
+- X. Shen, Y. Gu. Nonconvex Sparse Logistic Regression via Proximal Gradient Descent. IEEE International Conference on Acoustics, Speech and Signal Processing, 2018.
+- C. Yang, X. Shen, H. Ma, Y. Gu, H. C. So. Sparse Recovery Conditions and Performance Bounds for l_p-Minimization. IEEE Transactions on Signal Processing, 2018.
+- X. Shen, L. Chen, Y. Gu, H. C. So. Square-Root Lasso With Nonconvex Regularization: An ADMM Approach. IEEE Signal Processing Letters, 2016.
+
+Subspace and manifold
+------
+- X. Shen, Y. Jiao, Y. Gu. Subspace Data Visualization With Dissimilarity Based on Principal Angle. IEEE Data Science Workshop, 2018.
+- Y. Jiao, X. Shen, G. Li, Y. Gu. Subspace Principal Angle Preserving Property of Gaussian Random Projection. IEEE International Conference on Acoustics, Speech and Signal Processing, 2018.
+- L. Meng, X. Shen, Y. Gu. Sparse Subspace Clustering using Square-root Penalty. International Conference on Digital Signal Processing, 2017.
+- X. Shen, H. Krim, Y. Gu. Beyond Union of Subspaces: Subspace Pursuit on Grassmann Manifold for Data Representation. IEEE International Conference on Acoustics, Speech and Signal Processing, 2016.
+- X. Shen, Y. Gu. Restricted Isometry Property of Subspace Projection Matrix Under Random Compression. IEEE Signal Processing Letters, 2015.
+- X. Shen, Y. Gu. Subspace Projection Matrix Completion on Grassmann Manifold. IEEE International Conference on Acoustics, Speech and Signal Processing, 2015.
+
+Convex optimization applications
+------
+- N. Moehle, X. Shen, Z.-Q. Luo, S. Boyd. A Distributed Method for Optimal Capacity Reservation. Journal of Optimization Theory and Applications, 2019.
+K. Qiu, X. Mao, X. Shen, X. Wang, T. Li, Y. Gu. Time-varying Graph Signal Reconstruction. IEEE Journal of Selected Topics in Signal Processing, 2017.
+- X. Shen, Y. Gu. Anti-sparse representation for continuous function by dual atomic norm with application in OFDM. IEEE Global Conference on Signal and Information Processing, 2015.
+- X. Shen, J. Romberg, Y. Gu. Robust Off-grid Recovery from Compressed Measurements. IEEE International Conference on Acoustics, Speech, and Signal Processing, 2014.
 
 Software
 ======
+- DCCP, a Python package for disciplined convex-concave programming
+- DMCP, a Python package for disciplined multi-convex programming
 
 Professional Services
 ======
+- Journal reviewer: Journal of Machine Learning Research, IEEE Transactions of Signal Processing, IEEE Signal Processing Letters, IEEE Access
+- Conference reviewer: IEEE International Conference on Acoustics, Speech, and Signal Processing (2021 and 2020)

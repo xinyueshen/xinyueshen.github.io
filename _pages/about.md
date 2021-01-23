@@ -23,6 +23,7 @@ Office: Packard 278, 350 Serra Mall, Stanford, CA 94305
 
 Publications
 ======
+
 Statistics
 ------
 - G. Walther, A. Alnur, X. Shen, S. Boyd. Confidence Bands for a Log-concave Density. arXiv Preprint, 2020.

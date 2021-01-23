@@ -34,13 +34,14 @@ Publications
 - X. Shen, S. Diamond, M. Udell, Y. Gu, S. Boyd. Disciplined Multi-Convex Programming. IEEE Chinese Control and Decision Conference, Outstanding Youth Paper Award, 2017.
 - X. Shen, S. Diamond, Y. Gu, S, Boyd. Disciplined Convex-Concave Programming. IEEE Conference on Decision and Control, 2016.
 
-**Nonconvex sparse regression and compressed sensing**
+**Sparse regression and compressed sensing**
 
 - C. Yang, X. Shen, H. Ma, B. Chen, H.C. So. Weakly Convex Regularized Robust Sparse Recovery Methods with Theoretical Guarantees. IEEE Transactions on Signal Processing, 2019.
 - X. Shen, Y. Gu. Nonconvex Sparse Logistic Regression with Weakly Convex Regularization, IEEE Transactions on Signal Processing, 2018.
 - X. Shen, Y. Gu. Nonconvex Sparse Logistic Regression via Proximal Gradient Descent. IEEE International Conference on Acoustics, Speech and Signal Processing, 2018.
 - C. Yang, X. Shen, H. Ma, Y. Gu, H. C. So. Sparse Recovery Conditions and Performance Bounds for l_p-Minimization. IEEE Transactions on Signal Processing, 2018.
 - X. Shen, L. Chen, Y. Gu, H. C. So. Square-Root Lasso With Nonconvex Regularization: An ADMM Approach. IEEE Signal Processing Letters, 2016.
+- X. Shen, J. Romberg, Y. Gu. Robust Off-grid Recovery from Compressed Measurements. IEEE International Conference on Acoustics, Speech, and Signal Processing, 2014.
 
 **Subspace and manifold**
 
@@ -54,9 +55,9 @@ Publications
 **Convex optimization applications**
 
 - N. Moehle, X. Shen, Z.-Q. Luo, S. Boyd. A Distributed Method for Optimal Capacity Reservation. Journal of Optimization Theory and Applications, 2019.
-K. Qiu, X. Mao, X. Shen, X. Wang, T. Li, Y. Gu. Time-varying Graph Signal Reconstruction. IEEE Journal of Selected Topics in Signal Processing, 2017.
+- K. Qiu, X. Mao, X. Shen, X. Wang, T. Li, Y. Gu. Time-varying Graph Signal Reconstruction. IEEE Journal of Selected Topics in Signal Processing, 2017.
 - X. Shen, Y. Gu. Anti-sparse representation for continuous function by dual atomic norm with application in OFDM. IEEE Global Conference on Signal and Information Processing, 2015.
-- X. Shen, J. Romberg, Y. Gu. Robust Off-grid Recovery from Compressed Measurements. IEEE International Conference on Acoustics, Speech, and Signal Processing, 2014.
+
 
 Software
 ======

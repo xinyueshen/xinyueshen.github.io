@@ -28,14 +28,14 @@ Publications
 
 - G. Walther, A. Alnur, X. Shen, S. Boyd. Confidence Bands for a Log-concave Density. arXiv Preprint, 2020.
 
-**Nonconvex optimization algorithms**
+**Optimization algorithms**
 
 - Q. Liu, X. Shen, Y. Gu. Linearized ADMM for Nonconvex Nonsmooth Optimization with Convergence Analysis. IEEE Access, 2019.
 - X. Shen, S. Diamond, M. Udell, Y. Gu, S. Boyd. Disciplined Multi-Convex Programming. IEEE Chinese Control and Decision Conference, Outstanding Youth Paper Award, 2017.
 - X. Shen, S. Diamond, Y. Gu, S, Boyd. Disciplined Convex-Concave Programming. IEEE Conference on Decision and Control, 2016.
 
-Nonconvex sparse regression and compressed sensing
-------
+**Nonconvex sparse regression and compressed sensing**
+
 - C. Yang, X. Shen, H. Ma, B. Chen, H.C. So. Weakly Convex Regularized Robust Sparse Recovery Methods with Theoretical Guarantees. IEEE Transactions on Signal Processing, 2019.
 - X. Shen, Y. Gu. Nonconvex Sparse Logistic Regression with Weakly Convex Regularization, IEEE Transactions on Signal Processing, 2018.
 - X. Shen, Y. Gu. Nonconvex Sparse Logistic Regression via Proximal Gradient Descent. IEEE International Conference on Acoustics, Speech and Signal Processing, 2018.
@@ -60,8 +60,8 @@ K. Qiu, X. Mao, X. Shen, X. Wang, T. Li, Y. Gu. Time-varying Graph Signal Recons
 
 Software
 ======
-- DCCP, a Python package for disciplined convex-concave programming
-- DMCP, a Python package for disciplined multi-convex programming
+- [DCCP](https://github.com/cvxgrp/dccp), a Python package for disciplined convex-concave programming
+- [DMCP](https://github.com/cvxgrp/dmcp), a Python package for disciplined multi-convex programming
 
 Professional Services
 ======

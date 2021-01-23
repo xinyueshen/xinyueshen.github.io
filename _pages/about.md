@@ -8,6 +8,9 @@ author_profile: true
 #  - /about.html
 ---
 
+Bio
+======
+
 I am a post-doc at Stanford University and the Chinese University of Hong Kong (Shenzhen), 
 and I am advised by [Professor Stephen Boyd](https://web.stanford.edu/~boyd/) and [Professor Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en). 
 I received Ph.D. degree and B.E. degree in Electronic Engineering from Tsinghua University in 2018 and 2013, respectively, 
@@ -65,5 +68,12 @@ Software
 
 Professional Services
 ======
-- Journal reviewer: Journal of Machine Learning Research, IEEE Transactions of Signal Processing, IEEE Signal Processing Letters, IEEE Access
-- Conference reviewer: IEEE International Conference on Acoustics, Speech, and Signal Processing (2021 and 2020)
+
+**Journal reviewer** 
+- Journal of Machine Learning Research
+- IEEE Transactions of Signal Processing
+- IEEE Signal Processing Letters
+- IEEE Access
+
+**Conference reviewer**
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (2021 and 2020)

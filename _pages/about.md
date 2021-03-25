@@ -72,6 +72,7 @@ Professional Services
 - IEEE Transactions of Signal Processing
 - IEEE Signal Processing Letters
 - IEEE Access
+- Electronics
 
 **Conference reviewer**
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (2021 and 2020)

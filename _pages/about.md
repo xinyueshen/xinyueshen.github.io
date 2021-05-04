@@ -26,7 +26,7 @@ Publications
 
 **Optimization algorithms**
 
-- X. Shen, A. Alnur, S.Boyd. Minimizing Oracle-Structured Composite Functions. 2021.[Link to paper](https://web.stanford.edu/~boyd/papers/oracle_struc_composite.html)
+- X. Shen, A. Alnur, S.Boyd. Minimizing Oracle-Structured Composite Functions. 2021. [Link to paper](https://web.stanford.edu/~boyd/papers/oracle_struc_composite.html)
 - Q. Liu, X. Shen, Y. Gu. Linearized ADMM for Nonconvex Nonsmooth Optimization with Convergence Analysis. IEEE Access, 2019.
 - X. Shen, S. Diamond, M. Udell, Y. Gu, S. Boyd. Disciplined Multi-Convex Programming. IEEE Chinese Control and Decision Conference, Outstanding Youth Paper Award, 2017.
 - X. Shen, S. Diamond, Y. Gu, S, Boyd. Disciplined Convex-Concave Programming. IEEE Conference on Decision and Control, 2016.

@@ -24,15 +24,16 @@ Office: Packard 278, 350 Serra Mall, Stanford, CA 94305
 Publications
 ======
 
-**Statistics**
-
-- G. Walther, A. Alnur, X. Shen, S. Boyd. Confidence Bands for a Log-concave Density. arXiv Preprint, 2020.
-
 **Optimization algorithms**
 
+- X. Shen, A. Alnur, S.Boyd. Minimizing Oracle-Structured Composite Functions. 2021.[Link to paper](https://web.stanford.edu/~boyd/papers/oracle_struc_composite.html)
 - Q. Liu, X. Shen, Y. Gu. Linearized ADMM for Nonconvex Nonsmooth Optimization with Convergence Analysis. IEEE Access, 2019.
 - X. Shen, S. Diamond, M. Udell, Y. Gu, S. Boyd. Disciplined Multi-Convex Programming. IEEE Chinese Control and Decision Conference, Outstanding Youth Paper Award, 2017.
 - X. Shen, S. Diamond, Y. Gu, S, Boyd. Disciplined Convex-Concave Programming. IEEE Conference on Decision and Control, 2016.
+
+**Statistics**
+
+- G. Walther, A. Alnur, X. Shen, S. Boyd. Confidence Bands for a Log-concave Density. arXiv Preprint, 2020.
 
 **Sparse regression and compressed sensing**
 
@@ -43,6 +44,12 @@ Publications
 - X. Shen, L. Chen, Y. Gu, H. C. So. Square-Root Lasso With Nonconvex Regularization: An ADMM Approach. IEEE Signal Processing Letters, 2016.
 - X. Shen, J. Romberg, Y. Gu. Robust Off-grid Recovery from Compressed Measurements. IEEE International Conference on Acoustics, Speech, and Signal Processing, 2014.
 
+**Convex optimization applications**
+
+- N. Moehle, X. Shen, Z.-Q. Luo, S. Boyd. A Distributed Method for Optimal Capacity Reservation. Journal of Optimization Theory and Applications, 2019.
+- K. Qiu, X. Mao, X. Shen, X. Wang, T. Li, Y. Gu. Time-varying Graph Signal Reconstruction. IEEE Journal of Selected Topics in Signal Processing, 2017.
+- X. Shen, Y. Gu. Anti-sparse representation for continuous function by dual atomic norm with application in OFDM. IEEE Global Conference on Signal and Information Processing, 2015.
+
 **Subspace and manifold**
 
 - X. Shen, Y. Jiao, Y. Gu. Subspace Data Visualization With Dissimilarity Based on Principal Angle. IEEE Data Science Workshop, 2018.
@@ -52,15 +59,9 @@ Publications
 - X. Shen, Y. Gu. Restricted Isometry Property of Subspace Projection Matrix Under Random Compression. IEEE Signal Processing Letters, 2015.
 - X. Shen, Y. Gu. Subspace Projection Matrix Completion on Grassmann Manifold. IEEE International Conference on Acoustics, Speech and Signal Processing, 2015.
 
-**Convex optimization applications**
-
-- N. Moehle, X. Shen, Z.-Q. Luo, S. Boyd. A Distributed Method for Optimal Capacity Reservation. Journal of Optimization Theory and Applications, 2019.
-- K. Qiu, X. Mao, X. Shen, X. Wang, T. Li, Y. Gu. Time-varying Graph Signal Reconstruction. IEEE Journal of Selected Topics in Signal Processing, 2017.
-- X. Shen, Y. Gu. Anti-sparse representation for continuous function by dual atomic norm with application in OFDM. IEEE Global Conference on Signal and Information Processing, 2015.
-
-
 Software
 ======
+- [OSMM](https://github.com/cvxgrp/osmm), a Python package for oracle-structured minimization method
 - [DCCP](https://github.com/cvxgrp/dccp), a Python package for disciplined convex-concave programming
 - [DMCP](https://github.com/cvxgrp/dmcp), a Python package for disciplined multi-convex programming
 

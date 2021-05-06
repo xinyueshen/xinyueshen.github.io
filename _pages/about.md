@@ -26,14 +26,14 @@ Publications
 
 **Optimization algorithms**
 
-- X. Shen, A. Alnur, S.Boyd. Minimizing Oracle-Structured Composite Functions. 2021. [Link to paper](https://web.stanford.edu/~boyd/papers/oracle_struc_composite.html)
-- Q. Liu, X. Shen, Y. Gu. Linearized ADMM for Nonconvex Nonsmooth Optimization with Convergence Analysis. IEEE Access, 2019.
-- X. Shen, S. Diamond, M. Udell, Y. Gu, S. Boyd. Disciplined Multi-Convex Programming. IEEE Chinese Control and Decision Conference, Outstanding Youth Paper Award, 2017.
-- X. Shen, S. Diamond, Y. Gu, S, Boyd. Disciplined Convex-Concave Programming. IEEE Conference on Decision and Control, 2016.
+- X. Shen, A. Alnur, S.Boyd. Minimizing Oracle-Structured Composite Functions. 2021. [paper and code](https://web.stanford.edu/~boyd/papers/oracle_struc_composite.html)
+- Q. Liu, X. Shen, Y. Gu. Linearized ADMM for Nonconvex Nonsmooth Optimization with Convergence Analysis. IEEE Access, 2019. [paper](https://ieeexplore.ieee.org/document/8704712)
+- X. Shen, S. Diamond, M. Udell, Y. Gu, S. Boyd. Disciplined Multi-Convex Programming. IEEE Chinese Control and Decision Conference, Outstanding Youth Paper Award, 2017. [paper and code](https://web.stanford.edu/~boyd/papers/dmcp.html)
+- X. Shen, S. Diamond, Y. Gu, S, Boyd. Disciplined Convex-Concave Programming. IEEE Conference on Decision and Control, 2016. [paper and code](https://web.stanford.edu/~boyd/papers/dccp.html)
 
 **Statistics**
 
-- G. Walther, A. Alnur, X. Shen, S. Boyd. Confidence Bands for a Log-concave Density. arXiv Preprint, 2020.
+- G. Walther, A. Alnur, X. Shen, S. Boyd. Confidence Bands for a Log-concave Density. arXiv Preprint, 2020. [paper](https://web.stanford.edu/~boyd/papers/conf_bands_log_concave.html)
 
 **Sparse regression and compressed sensing**
 
@@ -46,7 +46,7 @@ Publications
 
 **Convex optimization applications**
 
-- N. Moehle, X. Shen, Z.-Q. Luo, S. Boyd. A Distributed Method for Optimal Capacity Reservation. Journal of Optimization Theory and Applications, 2019.
+- N. Moehle, X. Shen, Z.-Q. Luo, S. Boyd. A Distributed Method for Optimal Capacity Reservation. Journal of Optimization Theory and Applications, 2019. [paper and code](https://web.stanford.edu/~boyd/papers/opt_cap_res.html)
 - K. Qiu, X. Mao, X. Shen, X. Wang, T. Li, Y. Gu. Time-varying Graph Signal Reconstruction. IEEE Journal of Selected Topics in Signal Processing, 2017.
 - X. Shen, Y. Gu. Anti-sparse representation for continuous function by dual atomic norm with application in OFDM. IEEE Global Conference on Signal and Information Processing, 2015.
 
